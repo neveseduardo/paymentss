@@ -1,0 +1,13 @@
+.envolvidos {
+   .nav-tabs-navigation {
+       text-align: left;
+   }
+
+   .nav-link {
+       outline: none;
+
+       &:hover {
+            outline: none;    
+       }
+   }
+}
